@@ -61,3 +61,5 @@ function myFunc(val){
 value = myFunc(value);
 
 console.log(value);
+
+var lable = document.getElementById("answer");
